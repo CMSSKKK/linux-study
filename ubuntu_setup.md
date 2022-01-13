@@ -1,6 +1,6 @@
-# CS02
 
-## Ubuntu 설치하기 
+
+# Ubuntu 설치하기 
 
 * 환경 : 2020 M1 Mac, Monterey 12.1
 * 가상머신 툴 : UTM
